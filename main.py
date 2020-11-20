@@ -105,7 +105,7 @@ def end(message):
         arr2 = []
         counter = 0
     else:
-        bot.send_message(message.chat.id, "у тебе немає прав.лол?")
+        bot.send_message(message.chat.id, "у тебе немає прав.лол")
 
 
 # програма працює
